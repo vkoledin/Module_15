@@ -64,7 +64,7 @@ function createMap(earthquakes, plates) {
    
     let overlayMaps = {
         "Earthquakes": earthquakes,
-        "Fault Lines": plates
+        "Tectonic Plates": plates
     };
 
    
